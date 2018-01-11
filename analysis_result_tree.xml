@@ -1,0 +1,64 @@
+<root ID="root" depth="0" error="0">
+  <node ID="103980996" depth="1" distance="0" error="0.0643197688">
+    <node ID="104074324" depth="2" distance="121.155795986" error="2.47734882328" latlng="40.352335,-74.650898"/>
+    <node ID="104033168" depth="2" distance="184.168568145" error="1.27853146455" latlng="40.352542,-74.650206"/>
+    <node ID="104057703" depth="2" distance="227.105107513" error="0.417120235725" latlng="40.352686,-74.649736">
+      <node ID="103982821" depth="3" distance="784.870484355" error="0.219293599952" latlng="40.348235,-74.646705"/>
+    </node>
+    <node ID="104041622" depth="2" distance="369.073096654" error="2.80384997454" latlng="40.353166,-74.648184">
+      <node ID="104025857" depth="3" distance="742.884180221" error="2.48055327586" latlng="40.350255,-74.64598"/>
+    </node>
+    <node ID="103998540" depth="2" distance="415.736404643" error="3.26880344988" latlng="40.353324,-74.647674"/>
+  </node>
+  <node ID="104001749" depth="1" distance="0" error="0.8164674434"/>
+  <node ID="104016444" depth="1" distance="0" error="2.4455911311"/>
+  <node ID="104025526" depth="1" distance="0" error="2.1731340083"/>
+  <node ID="104029813" depth="1" distance="0" error="1.1263540593">
+    <node ID="104112260" depth="2" distance="110.85884568" error="3.97942939197" latlng="40.351748,-74.652856"/>
+    <node ID="104068332" depth="2" distance="142.742086887" error="3.81339439551" latlng="40.351853,-74.652506"/>
+    <node ID="103980996" depth="2" distance="168.050170647" error="3.65026000335" latlng="40.351936,-74.652228"/>
+  </node>
+  <node ID="104047549" depth="1" distance="0" error="1.067630926">
+    <node ID="104068339" depth="2" distance="40.8281958846" error="1.81607835752" latlng="40.3488775,-74.6511265"/>
+  </node>
+  <node ID="104059405" depth="1" distance="0" error="0.1047708186">
+    <node ID="104092742" depth="2" distance="38.9728158182" error="3.74901588438" latlng="40.352829,-74.658397"/>
+    <node ID="104025524" depth="2" distance="86.2807950321" error="2.90372897406" latlng="40.353018,-74.657897"/>
+    <node ID="104063891" depth="2" distance="145.099684638" error="2.11235208793" latlng="40.353254,-74.657276"/>
+    <node ID="104067639" depth="2" distance="206.037742673" error="1.02781330579" latlng="40.353496,-74.656631"/>
+    <node ID="103999243" depth="2" distance="288.423233329" error="1.45787877045" latlng="40.353817,-74.655755"/>
+  </node>
+  <node ID="104092742" depth="1" distance="0" error="0.5229913386"/>
+  <node ID="103994789" depth="1" distance="0" error="1.0851591436">
+    <node ID="104059405" depth="2" distance="181.758864646" error="3.73169625232" latlng="40.352675,-74.65881"/>
+  </node>
+  <node ID="104004799" depth="1" distance="0" error="1.0950204524"/>
+  <node ID="104017845" depth="1" distance="0" error="0.5551565496"/>
+  <node ID="104025524" depth="1" distance="0" error="1.0855333003"/>
+  <node ID="104025525" depth="1" distance="0" error="1.4744683894"/>
+  <node ID="104033168" depth="1" distance="0" error="2.4253236445"/>
+  <node ID="104041982" depth="1" distance="0" error="1.0829618779"/>
+  <node ID="104052270" depth="1" distance="0" error="0.1379777583">
+    <node ID="104016444" depth="2" distance="149.457825311" error="1.38464535429" latlng="40.34489,-74.660319"/>
+  </node>
+  <node ID="104063891" depth="1" distance="0" error="1.7841493281"/>
+  <node ID="104067639" depth="1" distance="0" error="2.825569311"/>
+  <node ID="104068332" depth="1" distance="0" error="0.0767401067"/>
+  <node ID="104074324" depth="1" distance="0" error="1.2850343379"/>
+  <node ID="104082455" depth="1" distance="0" error="2.1801301631">
+    <node ID="104083239" depth="2" distance="23.0507425647" error="1.72732029292" latlng="40.351314,-74.658737"/>
+    <node ID="104092741" depth="2" distance="111.094885876" error="1.4930690373" latlng="40.351589,-74.657763"/>
+  </node>
+  <node ID="104082460" depth="1" distance="0" error="2.5804441777"/>
+  <node ID="104083239" depth="1" distance="0" error="2.7165910396"/>
+  <node ID="104083241" depth="1" distance="0" error="0.2602079717"/>
+  <node ID="104112260" depth="1" distance="0" error="0.2015150396"/>
+  <node ID="104004797" depth="1" distance="0" error="1.1746633855">
+    <node ID="104004798" depth="2" distance="93.8028042205" error="3.84435992579" latlng="40.3507038,-74.652519"/>
+    <node ID="104004799" depth="2" distance="136.560666761" error="2.77346814427" latlng="40.3508651,-74.6520611"/>
+  </node>
+  <node ID="104068339" depth="1" distance="0" error="2.2072526606"/>
+  <node ID="104004798" depth="1" distance="0" error="0.099170843"/>
+  <node ID="104016452" depth="1" distance="0" error="0.5275270137"/>
+  <node ID="104016454" depth="1" distance="0" error="1.0709684697"/>
+</root>

@@ -1,0 +1,1709 @@
+<osm version="0.6" generator="CGImap 0.4.0 (15071 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="103978111" visible="true" version="3" changeset="3096238" timestamp="2009-11-12T08:44:14Z" user="woodpeck_fixbot" uid="147510" lat="40.3485490" lon="-74.6637310" alt="66.1660690308"/>
+ <node id="103980996" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T06:51:42Z" user="woodpeck_fixbot" uid="147510" lat="40.3519360" lon="-74.6522280" alt="57.7088432312"/>
+ <node id="103980998" visible="true" version="2" changeset="3096238" timestamp="2009-11-12T08:44:36Z" user="woodpeck_fixbot" uid="147510" lat="40.3543080" lon="-74.6530830" alt="50.165813446"/>
+ <node id="103982832" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T06:52:09Z" user="woodpeck_fixbot" uid="147510" lat="40.3445390" lon="-74.6436450" alt="33.511013031"/>
+ <node id="103982838" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T06:52:09Z" user="woodpeck_fixbot" uid="147510" lat="40.3447560" lon="-74.6431240" alt="32.5833435059"/>
+ <node id="103983963" visible="true" version="2" changeset="3096238" timestamp="2009-11-12T08:45:00Z" user="woodpeck_fixbot" uid="147510" lat="40.3511820" lon="-74.6466820" alt="46.6085014343"/>
+ <node id="103984907" visible="true" version="2" changeset="3096238" timestamp="2009-11-12T08:45:07Z" user="woodpeck_fixbot" uid="147510" lat="40.3532320" lon="-74.6430260" alt="44.0552902222"/>
+ <node id="103984904" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T06:52:41Z" user="woodpeck_fixbot" uid="147510" lat="40.3538340" lon="-74.6434740" alt="45.8715515137"/>
+ <node id="103994771" visible="true" version="2" changeset="3096238" timestamp="2009-11-12T08:46:27Z" user="woodpeck_fixbot" uid="147510" lat="40.3517120" lon="-74.6633180" alt="62.2929000854"/>
+ <node id="103999243" visible="true" version="2" changeset="3096238" timestamp="2009-11-12T08:46:53Z" user="woodpeck_fixbot" uid="147510" lat="40.3538170" lon="-74.6557550" alt="53.5643920898"/>
+ <node id="104001749" visible="true" version="3" changeset="3096238" timestamp="2009-11-12T08:47:10Z" user="woodpeck_fixbot" uid="147510" lat="40.3508870" lon="-74.6588430" alt="56.9566955566"/>
+ <node id="104015767" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T07:00:33Z" user="woodpeck_fixbot" uid="147510" lat="40.3501520" lon="-74.6639450" alt="62.8175354004"/>
+ <node id="104015761" visible="true" version="4" changeset="33344882" timestamp="2015-08-15T00:07:20Z" user="James Michael DuPont" uid="521572" lat="40.3487282" lon="-74.6630575" alt="66.1641082764"/>
+ <node id="104016444" visible="true" version="2" changeset="3096238" timestamp="2009-11-12T08:49:10Z" user="woodpeck_fixbot" uid="147510" lat="40.3448900" lon="-74.6603190" alt="55.3275718689"/>
+ <node id="104017668" visible="true" version="2" changeset="3096238" timestamp="2009-11-12T08:49:18Z" user="woodpeck_fixbot" uid="147510" lat="40.3528090" lon="-74.6633760" alt="62.6150245667"/>
+ <node id="104017783" visible="true" version="4" changeset="3096238" timestamp="2009-11-12T08:49:18Z" user="woodpeck_fixbot" uid="147510" lat="40.3394816" lon="-74.6481046" alt="19.0294208527"/>
+ <node id="104025526" visible="true" version="2" changeset="2951877" timestamp="2009-10-25T22:16:06Z" user="woodpeck_fixbot" uid="147510" lat="40.3541890" lon="-74.6586500" alt="55.6000289917"/>
+ <node id="104025857" visible="true" version="2" changeset="2951877" timestamp="2009-10-25T22:16:08Z" user="woodpeck_fixbot" uid="147510" lat="40.3502550" lon="-74.6459800" alt="44.9100112915"/>
+ <node id="104025865" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T07:03:41Z" user="woodpeck_fixbot" uid="147510" lat="40.3489760" lon="-74.6450220" alt="42.1087379456"/>
+ <node id="104025871" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T07:03:41Z" user="woodpeck_fixbot" uid="147510" lat="40.3451740" lon="-74.6421230" alt="26.6564254761"/>
+ <node id="104029813" visible="true" version="3" changeset="2951877" timestamp="2009-10-25T22:16:33Z" user="woodpeck_fixbot" uid="147510" lat="40.3513830" lon="-74.6540730" alt="58.8995170593"/>
+ <node id="104041985" visible="true" version="2" changeset="3096238" timestamp="2009-11-12T08:50:34Z" user="woodpeck_fixbot" uid="147510" lat="40.3521930" lon="-74.6548630" alt="54.6931419373"/>
+ <node id="104041991" visible="true" version="2" changeset="3096238" timestamp="2009-11-12T08:50:34Z" user="woodpeck_fixbot" uid="147510" lat="40.3527480" lon="-74.6551750" alt="51.605670929"/>
+ <node id="104047549" visible="true" version="3" changeset="3096238" timestamp="2009-11-12T08:51:09Z" user="woodpeck_fixbot" uid="147510" lat="40.3487560" lon="-74.6515810" alt="56.705532074"/>
+ <node id="104052252" visible="true" version="4" changeset="33344882" timestamp="2015-08-15T00:07:20Z" user="James Michael DuPont" uid="521572" lat="40.3453828" lon="-74.6625061" alt="61.7572517395"/>
+ <node id="104057703" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T07:15:15Z" user="woodpeck_fixbot" uid="147510" lat="40.3526860" lon="-74.6497360" alt="54.5047340393"/>
+ <node id="104059405" visible="true" version="2" changeset="3096238" timestamp="2009-11-12T08:52:39Z" user="woodpeck_fixbot" uid="147510" lat="40.3526750" lon="-74.6588100" alt="57.6683921814"/>
+ <node id="104060497" visible="true" version="2" changeset="3096238" timestamp="2009-11-12T08:52:47Z" user="woodpeck_fixbot" uid="147510" lat="40.3518830" lon="-74.6559220" alt="53.3744163513"/>
+ <node id="104061262" visible="true" version="2" changeset="3096238" timestamp="2009-11-12T08:52:53Z" user="woodpeck_fixbot" uid="147510" lat="40.3524440" lon="-74.6562140" alt="52.1182518005"/>
+ <node id="104069667" visible="true" version="2" changeset="3096238" timestamp="2009-11-12T08:53:58Z" user="woodpeck_fixbot" uid="147510" lat="40.3546890" lon="-74.6517220" alt="49.9673309326"/>
+ <node id="104073258" visible="true" version="2" changeset="3096238" timestamp="2009-11-12T08:54:38Z" user="woodpeck_fixbot" uid="147510" lat="40.3531910" lon="-74.6449090" alt="46.774974823"/>
+ <node id="104073266" visible="true" version="2" changeset="3096238" timestamp="2009-11-12T08:54:38Z" user="woodpeck_fixbot" uid="147510" lat="40.3510100" lon="-74.6432520" alt="42.4495582581"/>
+ <node id="104075024" visible="true" version="3" changeset="3096238" timestamp="2009-11-12T08:54:50Z" user="woodpeck_fixbot" uid="147510" lat="40.3501110" lon="-74.6425630" alt="41.0303649902"/>
+ <node id="104087019" visible="true" version="2" changeset="3096238" timestamp="2009-11-12T08:56:22Z" user="woodpeck_fixbot" uid="147510" lat="40.3504890" lon="-74.6629900" alt="61.1754798889"/>
+ <node id="104092742" visible="true" version="2" changeset="3096238" timestamp="2009-11-12T08:57:12Z" user="woodpeck_fixbot" uid="147510" lat="40.3528290" lon="-74.6583970" alt="57.2501716614"/>
+ <node id="299812882" visible="true" version="1" changeset="699592" timestamp="2008-09-25T21:02:23Z" user="aroach" uid="23500" lat="40.3462325" lon="-74.6598970" alt="53.438369751"/>
+ <node id="299814969" visible="true" version="6" changeset="852149" timestamp="2009-01-29T19:39:57Z" user="aroach" uid="23500" lat="40.3441656" lon="-74.6522116" alt="35.8755378723"/>
+ <node id="299840114" visible="true" version="1" changeset="699592" timestamp="2008-09-25T22:56:46Z" user="aroach" uid="23500" lat="40.3354060" lon="-74.6550123" alt="23.9041557312"/>
+ <node id="103976361" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T06:50:15Z" user="woodpeck_fixbot" uid="147510" lat="40.3492230" lon="-74.6418850" alt="39.560382843"/>
+ <node id="103978126" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T06:50:43Z" user="woodpeck_fixbot" uid="147510" lat="40.3466060" lon="-74.6646580" alt="63.0643959045"/>
+ <node id="103982808" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T06:52:08Z" user="woodpeck_fixbot" uid="147510" lat="40.3498340" lon="-74.6475350" alt="46.7573890686"/>
+ <node id="103982821" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T06:52:08Z" user="woodpeck_fixbot" uid="147510" lat="40.3482350" lon="-74.6467050" alt="42.7149734497"/>
+ <node id="103983965" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T06:52:28Z" user="woodpeck_fixbot" uid="147510" lat="40.3519470" lon="-74.6439670" alt="44.1872901917"/>
+ <node id="103983967" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T06:52:28Z" user="woodpeck_fixbot" uid="147510" lat="40.3524360" lon="-74.6424320" alt="41.138420105"/>
+ <node id="103983969" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T06:52:28Z" user="woodpeck_fixbot" uid="147510" lat="40.3527570" lon="-74.6414220" alt="41.3022270203"/>
+ <node id="103994789" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T06:55:12Z" user="woodpeck_fixbot" uid="147510" lat="40.3519740" lon="-74.6607470" alt="58.8583221436"/>
+ <node id="103998540" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T06:55:55Z" user="woodpeck_fixbot" uid="147510" lat="40.3533240" lon="-74.6476740" alt="51.5873680115"/>
+ <node id="103999822" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T06:56:12Z" user="woodpeck_fixbot" uid="147510" lat="40.3514340" lon="-74.6488920" alt="50.8652572632"/>
+ <node id="103999826" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T06:56:12Z" user="woodpeck_fixbot" uid="147510" lat="40.3521060" lon="-74.6473810" alt="49.2939567566"/>
+ <node id="104004799" visible="true" version="3" changeset="10112735" timestamp="2011-12-14T02:33:03Z" user="quarkatron" uid="111189" lat="40.3508651" lon="-74.6520611" alt="56.6781425476"/>
+ <node id="104009926" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T06:59:08Z" user="woodpeck_fixbot" uid="147510" lat="40.3354780" lon="-74.6634070" alt="38.6381530762"/>
+ <node id="104017141" visible="true" version="4" changeset="4704538" timestamp="2010-05-15T10:09:33Z" user="andrewpmk" uid="1679" lat="40.3381910" lon="-74.6562950" alt="32.9437408447">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="source" v="Yahoo"/>
+ </node>
+ <node id="104017666" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T07:01:16Z" user="woodpeck_fixbot" uid="147510" lat="40.3521160" lon="-74.6630570" alt="62.615436554"/>
+ <node id="104017845" visible="true" version="5" changeset="32911819" timestamp="2015-07-27T15:10:42Z" user="mario824" uid="182051" lat="40.3503941" lon="-74.6571321" alt="58.3283195496">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="104017838" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T07:01:19Z" user="woodpeck_fixbot" uid="147510" lat="40.3478210" lon="-74.6550290" alt="61.376750946"/>
+ <node id="104017670" visible="true" version="3" changeset="33609338" timestamp="2015-08-26T22:30:24Z" user="RussNelson" uid="3962" lat="40.3529332" lon="-74.6634331" alt="62.216091156"/>
+ <node id="104017797" visible="true" version="4" changeset="34703765" timestamp="2015-10-18T01:32:50Z" user="mcld" uid="238584" lat="40.3411700" lon="-74.6498150" alt="21.0654983521">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="104017788" visible="true" version="5" changeset="10135170" timestamp="2011-12-17T00:13:05Z" user="quarkatron" uid="111189" lat="40.3405423" lon="-74.6492006" alt="18.8315811157"/>
+ <node id="104025524" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T07:03:36Z" user="woodpeck_fixbot" uid="147510" lat="40.3530180" lon="-74.6578970" alt="56.6876296997"/>
+ <node id="104025525" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T07:03:36Z" user="woodpeck_fixbot" uid="147510" lat="40.3534680" lon="-74.6581870" alt="56.2986946106"/>
+ <node id="104026284" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T07:03:46Z" user="woodpeck_fixbot" uid="147510" lat="40.3385790" lon="-74.6556010" alt="30.6049919128"/>
+ <node id="104027991" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T07:04:15Z" user="woodpeck_fixbot" uid="147510" lat="40.3536310" lon="-74.6466640" alt="50.7103843689"/>
+ <node id="104033168" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T07:05:56Z" user="woodpeck_fixbot" uid="147510" lat="40.3525420" lon="-74.6502060" alt="55.3478393555"/>
+ <node id="104033169" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T07:05:57Z" user="woodpeck_fixbot" uid="147510" lat="40.3548940" lon="-74.6509910" alt="49.3230133057"/>
+ <node id="104041622" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T07:08:52Z" user="woodpeck_fixbot" uid="147510" lat="40.3531660" lon="-74.6481840" alt="52.057182312"/>
+ <node id="104041982" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T07:08:59Z" user="woodpeck_fixbot" uid="147510" lat="40.3512930" lon="-74.6543570" alt="58.8561248779"/>
+ <node id="104041993" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T07:09:00Z" user="woodpeck_fixbot" uid="147510" lat="40.3530540" lon="-74.6553470" alt="50.9543113708"/>
+ <node id="104052270" visible="true" version="4" changeset="33344882" timestamp="2015-08-15T00:07:20Z" user="James Michael DuPont" uid="521572" lat="40.3443331" lon="-74.6619235" alt="57.6351852417"/>
+ <node id="104060492" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T07:16:14Z" user="woodpeck_fixbot" uid="147510" lat="40.3513770" lon="-74.6576550" alt="53.8946914673"/>
+ <node id="104060495" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T07:16:14Z" user="woodpeck_fixbot" uid="147510" lat="40.3517210" lon="-74.6564750" alt="52.4117660522"/>
+ <node id="104062638" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T07:17:01Z" user="woodpeck_fixbot" uid="147510" lat="40.3542460" lon="-74.6425530" alt="45.0939674377"/>
+ <node id="104062641" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T07:17:01Z" user="woodpeck_fixbot" uid="147510" lat="40.3536460" lon="-74.6420970" alt="43.8479156494"/>
+ <node id="104063891" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T07:17:17Z" user="woodpeck_fixbot" uid="147510" lat="40.3532540" lon="-74.6572760" alt="55.9890136719"/>
+ <node id="104067639" visible="true" version="3" changeset="4997346" timestamp="2010-06-16T04:33:04Z" user="NE2" uid="207745" lat="40.3534960" lon="-74.6566310" alt="54.947593689"/>
+ <node id="104068332" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T07:18:16Z" user="woodpeck_fixbot" uid="147510" lat="40.3518530" lon="-74.6525060" alt="57.8499031067"/>
+ <node id="104069656" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T07:18:47Z" user="woodpeck_fixbot" uid="147510" lat="40.3538890" lon="-74.6540310" alt="51.1672477722"/>
+ <node id="104073262" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T07:19:30Z" user="woodpeck_fixbot" uid="147510" lat="40.3525940" lon="-74.6444580" alt="45.4315605164"/>
+ <node id="104074324" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T07:19:43Z" user="woodpeck_fixbot" uid="147510" lat="40.3523350" lon="-74.6508980" alt="56.4881286621"/>
+ <node id="104082455" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T07:21:46Z" user="woodpeck_fixbot" uid="147510" lat="40.3512420" lon="-74.6589920" alt="55.5930328369"/>
+ <node id="104082460" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T07:21:47Z" user="woodpeck_fixbot" uid="147510" lat="40.3500240" lon="-74.6584830" alt="60.3536071777"/>
+ <node id="104083239" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T07:21:58Z" user="woodpeck_fixbot" uid="147510" lat="40.3513140" lon="-74.6587370" alt="55.0565719604"/>
+ <node id="104083241" visible="true" version="2" changeset="2498845" timestamp="2009-09-16T07:21:58Z" user="woodpeck_fixbot" uid="147510" lat="40.3524780" lon="-74.6593390" alt="58.0333709717"/>
+ <node id="104092741" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T07:24:23Z" user="woodpeck_fixbot" uid="147510" lat="40.3515890" lon="-74.6577630" alt="53.4492950439"/>
+ <node id="104105292" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T07:28:47Z" user="woodpeck_fixbot" uid="147510" lat="40.3489250" lon="-74.6624350" alt="65.8352737427"/>
+ <node id="104112260" visible="true" version="3" changeset="2498845" timestamp="2009-09-16T07:30:41Z" user="woodpeck_fixbot" uid="147510" lat="40.3517480" lon="-74.6528560" alt="57.9746780396"/>
+ <node id="104047521" visible="true" version="4" changeset="7937758" timestamp="2011-04-22T19:10:44Z" user="nurban" uid="442550" lat="40.3469530" lon="-74.6506280" alt="41.4812393188"/>
+ <node id="104004796" visible="true" version="4" changeset="10111540" timestamp="2011-12-13T21:52:35Z" user="quarkatron" uid="111189" lat="40.3493885" lon="-74.6562391" alt="61.2006263733"/>
+ <node id="104004797" visible="true" version="4" changeset="10111540" timestamp="2011-12-13T21:52:35Z" user="quarkatron" uid="111189" lat="40.3503415" lon="-74.6535183" alt="58.9478263855"/>
+ <node id="104068339" visible="true" version="3" changeset="10112735" timestamp="2011-12-14T02:21:59Z" user="quarkatron" uid="111189" lat="40.3488775" lon="-74.6511265" alt="55.5659103394"/>
+ <node id="103983961" visible="true" version="3" changeset="10112735" timestamp="2011-12-14T02:25:53Z" user="quarkatron" uid="111189" lat="40.3505025" lon="-74.6481873" alt="48.4016876221"/>
+ <node id="104057714" visible="true" version="3" changeset="10112735" timestamp="2011-12-14T02:25:53Z" user="quarkatron" uid="111189" lat="40.3498027" lon="-74.6476477" alt="46.9851837158"/>
+ <node id="104004798" visible="true" version="3" changeset="10112735" timestamp="2011-12-14T02:33:02Z" user="quarkatron" uid="111189" lat="40.3507038" lon="-74.6525190" alt="57.673992157"/>
+ <node id="104016452" visible="true" version="4" changeset="33344882" timestamp="2015-08-15T00:07:20Z" user="James Michael DuPont" uid="521572" lat="40.3460392" lon="-74.6611197" alt="57.2456359863"/>
+ <node id="104016454" visible="true" version="3" changeset="10121071" timestamp="2011-12-15T04:21:24Z" user="quarkatron" uid="111189" lat="40.3470213" lon="-74.6618575" alt="58.8441314697"/>
+ <node id="104017824" visible="true" version="4" changeset="10128253" timestamp="2011-12-16T01:57:34Z" user="quarkatron" uid="111189" lat="40.3454346" lon="-74.6532137" alt="43.129196167"/>
+ <node id="103976377" visible="true" version="5" changeset="10131635" timestamp="2011-12-16T15:43:14Z" user="quarkatron" uid="111189" lat="40.3507917" lon="-74.6392204" alt="40.5023765564"/>
+ <node id="104063154" visible="true" version="3" changeset="30190215" timestamp="2015-04-13T15:08:57Z" user="PlaneMad" uid="1306" lat="40.3532170" lon="-74.6617431" alt="60.8760566711"/>
+ <node id="104073256" visible="true" version="4" changeset="26790403" timestamp="2014-11-15T01:31:14Z" user="ham" uid="13029" lat="40.3539770" lon="-74.6455030" alt="49.7527580261">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="440197245" visible="true" version="1" changeset="1798274" timestamp="2009-07-11T16:20:19Z" user="TIGERcnl" uid="120146" lat="40.3502330" lon="-74.6426570" alt="41.1241378784"/>
+ <node id="440197244" visible="true" version="4" changeset="10082433" timestamp="2011-12-10T16:47:42Z" user="quarkatron" uid="111189" lat="40.3471239" lon="-74.6495247" alt="43.4320068359"/>
+ <node id="1539951861" visible="true" version="1" changeset="10082433" timestamp="2011-12-10T19:49:04Z" user="quarkatron" uid="111189" lat="40.3434891" lon="-74.6564272" alt="43.1989097595"/>
+ <node id="1539968100" visible="true" version="2" changeset="24046397" timestamp="2014-07-09T13:53:29Z" user="Rondale" uid="1001936" lat="40.3422545" lon="-74.6559575" alt="39.2639198303"/>
+ <node id="1778379259" visible="true" version="1" changeset="11819695" timestamp="2012-06-06T20:45:07Z" user="TLJasonWyatt" uid="419228" lat="40.3462693" lon="-74.6538705" alt="49.8968276978">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="2707654130" visible="true" version="1" changeset="20994753" timestamp="2014-03-08T20:59:19Z" user="tom127106" uid="1975011" lat="40.3430344" lon="-74.6607053" alt="47.8766555786"/>
+ <node id="2707654134" visible="true" version="2" changeset="21572411" timestamp="2014-04-08T14:36:49Z" user="Rondale" uid="1001936" lat="40.3430873" lon="-74.6609125" alt="48.3102836609"/>
+ <node id="2885338337" visible="true" version="1" changeset="22600878" timestamp="2014-05-28T14:02:58Z" user="Rondale" uid="1001936" lat="40.3392501" lon="-74.6554525" alt="29.9608821869"/>
+ <node id="2934335333" visible="true" version="2" changeset="24046397" timestamp="2014-07-09T13:53:29Z" user="Rondale" uid="1001936" lat="40.3417442" lon="-74.6558806" alt="37.1765213013"/>
+ <node id="3018946086" visible="true" version="2" changeset="32434895" timestamp="2015-07-05T20:34:29Z" user="Senalba" uid="2263879" lat="40.3375914" lon="-74.6542128" alt="27.2735443115"/>
+ <node id="3018971347" visible="true" version="5" changeset="32435022" timestamp="2015-07-05T20:41:07Z" user="Senalba" uid="2263879" lat="40.3385883" lon="-74.6528995" alt="20.7684879303"/>
+ <node id="3018946083" visible="true" version="3" changeset="32434895" timestamp="2015-07-05T20:34:29Z" user="Senalba" uid="2263879" lat="40.3379267" lon="-74.6541618" alt="28.2050571442"/>
+ <node id="3018946076" visible="true" version="3" changeset="32435765" timestamp="2015-07-05T21:21:05Z" user="Senalba" uid="2263879" lat="40.3390949" lon="-74.6547935" alt="27.552110672">
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="3577623023" visible="true" version="2" changeset="33351090" timestamp="2015-08-15T11:52:54Z" user="James Michael DuPont" uid="521572" lat="40.3390140" lon="-74.6476622" alt="15.8686828613"/>
+ <node id="3618134710" visible="true" version="6" changeset="32434930" timestamp="2015-07-05T20:36:13Z" user="Senalba" uid="2263879" lat="40.3374994" lon="-74.6542396" alt="27.1299858093"/>
+ <node id="3635878791" visible="true" version="1" changeset="32435022" timestamp="2015-07-05T20:41:06Z" user="Senalba" uid="2263879" lat="40.3385553" lon="-74.6528991" alt="21.8414020538"/>
+ <node id="3734755019" visible="true" version="1" changeset="33886343" timestamp="2015-09-08T16:32:04Z" user="RD1" uid="2418762" lat="40.3379000" lon="-74.6569440" alt="32.4721946716"/>
+ <node id="3734788110" visible="true" version="2" changeset="33886343" timestamp="2015-09-08T17:05:12Z" user="RD1" uid="2418762" lat="40.3388055" lon="-74.6552294" alt="29.4842586517"/>
+ <node id="3734803972" visible="true" version="1" changeset="33886343" timestamp="2015-09-08T17:05:12Z" user="RD1" uid="2418762" lat="40.3389614" lon="-74.6551548" alt="28.9887771606"/>
+ <way id="11644327" visible="true" version="3" changeset="15784263" timestamp="2013-04-19T11:50:19Z" user="bot-mode" uid="451693">
+  <nd ref="104062638"/>
+  <nd ref="104062641"/>
+  <nd ref="103983969"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Wilton Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Wilton"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11645680" visible="true" version="3" changeset="15784263" timestamp="2013-04-19T11:51:30Z" user="bot-mode" uid="451693">
+  <nd ref="104060497"/>
+  <nd ref="104061262"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Branch Avenue"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Branch"/>
+  <tag k="tiger:name_type" v="Ave"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="11645746" visible="true" version="3" changeset="15784263" timestamp="2013-04-19T11:51:32Z" user="bot-mode" uid="451693">
+  <nd ref="104082455"/>
+  <nd ref="104001749"/>
+  <nd ref="104082460"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="South Tulane Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Tulane"/>
+  <tag k="tiger:name_direction_prefix" v="S"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+  <tag k="tiger:zip_right" v="08542"/>
+ </way>
+ <way id="11645785" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:51:35Z" user="bot-mode" uid="451693">
+  <nd ref="104083239"/>
+  <nd ref="104083241"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="North Tulane Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Tulane"/>
+  <tag k="tiger:name_direction_prefix" v="N"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+  <tag k="tiger:zip_right" v="08542"/>
+ </way>
+ <way id="11640344" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:45:35Z" user="bot-mode" uid="451693">
+  <nd ref="103980996"/>
+  <nd ref="103980998"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Chestnut Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Chestnut"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+  <tag k="tiger:zip_right" v="08542"/>
+ </way>
+ <way id="11640457" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:45:43Z" user="bot-mode" uid="451693">
+  <nd ref="103982832"/>
+  <nd ref="103982838"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Fitzrandolph Road"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Fitzrandolph"/>
+  <tag k="tiger:name_type" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+ </way>
+ <way id="11640506" visible="true" version="4" changeset="22910417" timestamp="2014-06-13T15:01:05Z" user="pipigong" uid="2053470">
+  <nd ref="103983961"/>
+  <nd ref="103983963"/>
+  <nd ref="103983965"/>
+  <nd ref="103983967"/>
+  <nd ref="103983969"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Patton Avenue"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Patton"/>
+  <tag k="tiger:name_type" v="Ave"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11640543" visible="true" version="3" changeset="15784263" timestamp="2013-04-19T11:45:50Z" user="bot-mode" uid="451693">
+  <nd ref="103984904"/>
+  <nd ref="103984907"/>
+  <nd ref="103983967"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Markham Road"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Markham"/>
+  <tag k="tiger:name_type" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11641177" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:46:37Z" user="bot-mode" uid="451693">
+  <nd ref="103998540"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Queenston Place"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Queenston"/>
+  <tag k="tiger:name_type" v="Pl"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11641254" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:46:47Z" user="bot-mode" uid="451693">
+  <nd ref="103999822"/>
+  <nd ref="103999826"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Aiken Avenue"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Aiken"/>
+  <tag k="tiger:name_type" v="Ave"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11641392" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:46:56Z" user="bot-mode" uid="451693">
+  <nd ref="104001749"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Lincoln Court"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Lincoln"/>
+  <tag k="tiger:name_type" v="Ct"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+  <tag k="tiger:zip_right" v="08542"/>
+ </way>
+ <way id="11641569" visible="true" version="6" changeset="25254702" timestamp="2014-09-05T19:00:21Z" user="Senalba" uid="2263879">
+  <nd ref="104004796"/>
+  <nd ref="104004797"/>
+  <nd ref="104004798"/>
+  <nd ref="104004799"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="William Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="William"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11641851" visible="true" version="3" changeset="25231200" timestamp="2014-09-04T17:09:49Z" user="Senalba" uid="2263879">
+  <nd ref="104009926"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Newlin Road"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Newlin"/>
+  <tag k="tiger:name_type" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11641931" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:47:44Z" user="bot-mode" uid="451693">
+  <nd ref="104004798"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Firestone Court"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Firestone"/>
+  <tag k="tiger:name_type" v="Ct"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11642113" visible="true" version="3" changeset="15784263" timestamp="2013-04-19T11:47:54Z" user="bot-mode" uid="451693">
+  <nd ref="104015761"/>
+  <nd ref="104015767"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Bank Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Bank"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+  <tag k="tiger:zip_right" v="08542"/>
+ </way>
+ <way id="11642187" visible="true" version="6" changeset="24679329" timestamp="2014-08-11T14:11:04Z" user="pipigong" uid="2053470">
+  <nd ref="103994771"/>
+  <nd ref="104017666"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="John Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="John"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="11642289" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:48:11Z" user="bot-mode" uid="451693">
+  <nd ref="104017670"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Margerum Court"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Margerum"/>
+  <tag k="tiger:name_type" v="Ct"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+ </way>
+ <way id="11642559" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:48:30Z" user="bot-mode" uid="451693">
+  <nd ref="104025524"/>
+  <nd ref="104025525"/>
+  <nd ref="104025526"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Humbert Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Humbert"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+  <tag k="tiger:zip_right" v="08542"/>
+ </way>
+ <way id="11642578" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:48:31Z" user="bot-mode" uid="451693">
+  <nd ref="104017666"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Green Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Green"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+  <tag k="tiger:zip_right" v="08542"/>
+ </way>
+ <way id="11642649" visible="true" version="3" changeset="32334429" timestamp="2015-07-01T15:26:23Z" user="ediyes" uid="1240849">
+  <nd ref="104027991"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Evelyn Place"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Evelyn"/>
+  <tag k="tiger:name_type" v="Pl"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11642739" visible="true" version="6" changeset="25254702" timestamp="2014-09-05T19:00:22Z" user="Senalba" uid="2263879">
+  <nd ref="104029813"/>
+  <nd ref="104004797"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Charlton Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Charlton"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11642839" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:48:48Z" user="bot-mode" uid="451693">
+  <nd ref="104033168"/>
+  <nd ref="104033169"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Maple Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Maple"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+  <tag k="tiger:zip_right" v="08542"/>
+ </way>
+ <way id="11643244" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:49:20Z" user="bot-mode" uid="451693">
+  <nd ref="104041622"/>
+  <nd ref="103999826"/>
+  <nd ref="103983963"/>
+  <nd ref="104025857"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Princeton Avenue"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Princeton"/>
+  <tag k="tiger:name_type" v="Ave"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11643269" visible="true" version="4" changeset="33345834" timestamp="2015-08-15T03:22:19Z" user="James Michael DuPont" uid="521572">
+  <nd ref="104041982"/>
+  <nd ref="104041985"/>
+  <nd ref="104041991"/>
+  <nd ref="104041993"/>
+  <nd ref="103999243"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Moore Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Moore"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="11644031" visible="true" version="9" changeset="25231200" timestamp="2014-09-04T17:09:56Z" user="Senalba" uid="2263879">
+  <nd ref="103982838"/>
+  <nd ref="104025871"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Hartley Avenue"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Hartley"/>
+  <tag k="tiger:name_type" v="Ave"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11644044" visible="true" version="3" changeset="25254702" timestamp="2014-09-05T19:00:21Z" user="Senalba" uid="2263879">
+  <nd ref="104057703"/>
+  <nd ref="103999822"/>
+  <nd ref="103983961"/>
+  <nd ref="104057714"/>
+  <nd ref="103982821"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Murray Place"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Murray"/>
+  <tag k="tiger:name_type" v="Pl"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11644126" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:50:11Z" user="bot-mode" uid="451693">
+  <nd ref="104059405"/>
+  <nd ref="104025526"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Greenview Avenue"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Greenview"/>
+  <tag k="tiger:name_type" v="Ave"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+  <tag k="tiger:zip_right" v="08542"/>
+ </way>
+ <way id="11644185" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:50:14Z" user="bot-mode" uid="451693">
+  <nd ref="104060492"/>
+  <nd ref="104060495"/>
+  <nd ref="104060497"/>
+  <nd ref="104041985"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Park Place"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Park"/>
+  <tag k="tiger:name_type" v="Pl"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+  <tag k="tiger:zip_right" v="08542"/>
+ </way>
+ <way id="11644225" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:50:15Z" user="bot-mode" uid="451693">
+  <nd ref="104041991"/>
+  <nd ref="104061262"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Willow Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Willow"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+  <tag k="tiger:zip_right" v="08542"/>
+ </way>
+ <way id="11644291" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:50:18Z" user="bot-mode" uid="451693">
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Greenholm Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Greenholm"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11644347" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:50:24Z" user="bot-mode" uid="451693">
+  <nd ref="104063154"/>
+  <nd ref="104017668"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Quarry Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Quarry"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+  <tag k="tiger:zip_right" v="08542"/>
+ </way>
+ <way id="11644402" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:50:27Z" user="bot-mode" uid="451693">
+  <nd ref="104060495"/>
+  <nd ref="104063891"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Madison Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Madison"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+  <tag k="tiger:zip_right" v="08542"/>
+ </way>
+ <way id="11644522" visible="true" version="6" changeset="25254891" timestamp="2014-09-05T19:12:12Z" user="Senalba" uid="2263879">
+  <nd ref="104016454"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Edwards Place"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Edwards"/>
+  <tag k="tiger:name_type" v="Pl"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11644773" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:50:43Z" user="bot-mode" uid="451693">
+  <nd ref="104041993"/>
+  <nd ref="104069656"/>
+  <nd ref="103980998"/>
+  <nd ref="104069667"/>
+  <nd ref="104033169"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Spruce Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Spruce"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+  <tag k="tiger:zip_right" v="08542"/>
+ </way>
+ <way id="11645199" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:51:07Z" user="bot-mode" uid="451693">
+  <nd ref="104074324"/>
+  <nd ref="104069667"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Pine Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Pine"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+  <tag k="tiger:zip_right" v="08542"/>
+ </way>
+ <way id="11645714" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:51:30Z" user="bot-mode" uid="451693">
+  <nd ref="104073258"/>
+  <nd ref="103984904"/>
+  <nd ref="104062638"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Sergeant Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Sergeant"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11646580" visible="true" version="3" changeset="15784263" timestamp="2013-04-19T11:52:27Z" user="bot-mode" uid="451693">
+  <nd ref="104082455"/>
+  <nd ref="104083239"/>
+  <nd ref="104092741"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Spring Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Spring"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+  <tag k="tiger:zip_right" v="08542"/>
+ </way>
+ <way id="11647171" visible="true" version="3" changeset="22075300" timestamp="2014-05-02T00:37:05Z" user="KristenK" uid="1494110">
+  <nd ref="104105292"/>
+  <nd ref="104087019"/>
+  <nd ref="103994771"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Chambers Street"/>
+  <tag k="name_1" v="Chambers Terrace"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Chambers"/>
+  <tag k="tiger:name_base_1" v="Chambers"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:name_type_1" v="Ter"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+  <tag k="tiger:zip_right" v="08542"/>
+ </way>
+ <way id="11647317" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:53:17Z" user="bot-mode" uid="451693">
+  <nd ref="104073262"/>
+  <nd ref="103984907"/>
+  <nd ref="104062641"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Pelham Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Pelham"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11647724" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:53:49Z" user="bot-mode" uid="451693">
+  <nd ref="104025525"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Humbert Lane"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Humbert"/>
+  <tag k="tiger:name_type" v="Ln"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+  <tag k="tiger:zip_right" v="08542"/>
+ </way>
+ <way id="11647868" visible="true" version="3" changeset="25254891" timestamp="2014-09-05T19:12:13Z" user="Senalba" uid="2263879">
+  <nd ref="104016452"/>
+  <nd ref="104052252"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Dickinson Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Dickinson"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11648076" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:54:15Z" user="bot-mode" uid="451693">
+  <nd ref="104112260"/>
+  <nd ref="104069656"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Moran Avenue"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Moran"/>
+  <tag k="tiger:name_type" v="Ave"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+  <tag k="tiger:zip_right" v="08542"/>
+ </way>
+ <way id="11648299" visible="true" version="2" changeset="15784263" timestamp="2013-04-19T11:54:32Z" user="bot-mode" uid="451693">
+  <nd ref="104063154"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Berrien Court"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Berrien"/>
+  <tag k="tiger:name_type" v="Ct"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+  <tag k="tiger:zip_right" v="08542"/>
+ </way>
+ <way id="61598710" visible="true" version="8" changeset="33351090" timestamp="2015-08-15T11:52:53Z" user="James Michael DuPont" uid="521572">
+  <nd ref="104017824"/>
+  <nd ref="1778379259"/>
+  <nd ref="104017838"/>
+  <nd ref="104004796"/>
+  <nd ref="104017845"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="HFCS" v="Urban Principal Arterial"/>
+  <tag k="hgv" v="designated"/>
+  <tag k="hgv:state_network" v="yes"/>
+  <tag k="highway" v="primary"/>
+  <tag k="horse" v="yes"/>
+  <tag k="name" v="Washington Road"/>
+  <tag k="NJDOT_SRI" v="00000571"/>
+  <tag k="ref" v="CR 571;CR 526"/>
+  <tag k="source:hgv:state_network" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf"/>
+  <tag k="tiger:cfcc" v="A49"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Washington"/>
+  <tag k="tiger:name_base_1" v="County Road 583"/>
+  <tag k="tiger:name_type" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="27313852" visible="true" version="29" changeset="33754536" timestamp="2015-09-02T15:38:30Z" user="andygol" uid="94578">
+  <nd ref="3577623023"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="HFCS" v="Urban Principal Arterial"/>
+  <tag k="hgv" v="designated"/>
+  <tag k="hgv:state_network" v="yes"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="Washington Road"/>
+  <tag k="NJDOT_SRI" v="00000571"/>
+  <tag k="old_ref" v="CR 7"/>
+  <tag k="ref" v="CR 571;CR 526"/>
+  <tag k="source:hgv:state_network" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf"/>
+  <tag k="source:old_ref" v="1938 map http://mapmaker.rutgers.edu/MERCER_COUNTY/MercerCounty.html"/>
+  <tag k="tiger:cfcc" v="A49"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Washington"/>
+  <tag k="tiger:name_base_1" v="County Road 583"/>
+  <tag k="tiger:name_type" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="27339576" visible="true" version="5" changeset="25231200" timestamp="2014-09-04T17:10:01Z" user="Senalba" uid="2263879">
+  <nd ref="103976377"/>
+  <nd ref="104075024"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Western Way"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A74"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Western"/>
+  <tag k="tiger:name_type" v="Way"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="27459484" visible="true" version="13" changeset="33345834" timestamp="2015-08-15T03:22:19Z" user="James Michael DuPont" uid="521572">
+  <nd ref="104017845"/>
+  <nd ref="104041982"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="HFCS" v="Urban Principal Arterial"/>
+  <tag k="hgv" v="designated"/>
+  <tag k="hgv:state_network" v="yes"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="Nassau Street"/>
+  <tag k="name_1" v="Princeton Kingston Rd"/>
+  <tag k="NJDOT_SRI" v="00000027"/>
+  <tag k="ref" v="NJ 27"/>
+  <tag k="source:hgv:state_network" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf"/>
+  <tag k="tiger:cfcc" v="A31"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Nassau"/>
+  <tag k="tiger:name_base_1" v="State Route 27"/>
+  <tag k="tiger:name_base_2" v="Princeton Kingston"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:name_type_2" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11645097" visible="true" version="7" changeset="25231465" timestamp="2014-09-04T17:23:22Z" user="Senalba" uid="2263879">
+  <nd ref="104073256"/>
+  <nd ref="104073258"/>
+  <nd ref="104073262"/>
+  <nd ref="103983965"/>
+  <nd ref="104073266"/>
+  <nd ref="440197245"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Harrison Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Harrison"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_left_1" v="08540"/>
+ </way>
+ <way id="11642579" visible="true" version="5" changeset="22531316" timestamp="2014-05-24T20:35:33Z" user="pipigong" uid="2053470">
+  <nd ref="104025857"/>
+  <nd ref="104025865"/>
+  <nd ref="104025871"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Broadmead Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Broadmead"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="27337186" visible="true" version="22" changeset="34703765" timestamp="2015-10-18T01:32:46Z" user="mcld" uid="238584">
+  <nd ref="104017783"/>
+  <nd ref="104017788"/>
+  <tag k="bridge" v="yes"/>
+  <tag k="HFCS" v="Urban Principal Arterial"/>
+  <tag k="hgv" v="designated"/>
+  <tag k="hgv:state_network" v="yes"/>
+  <tag k="highway" v="primary"/>
+  <tag k="layer" v="1"/>
+  <tag k="name" v="Washington Road"/>
+  <tag k="NJDOT_SRI" v="00000571"/>
+  <tag k="old_ref" v="CR 7"/>
+  <tag k="ref" v="CR 571;CR 526"/>
+  <tag k="sidewalk" v="both"/>
+  <tag k="source:hgv:state_network" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf"/>
+  <tag k="source:old_ref" v="1938 map http://mapmaker.rutgers.edu/MERCER_COUNTY/MercerCounty.html"/>
+  <tag k="tiger:cfcc" v="A49"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Washington"/>
+  <tag k="tiger:name_base_1" v="County Road 583"/>
+  <tag k="tiger:name_type" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="11640456" visible="true" version="5" changeset="22531316" timestamp="2014-05-24T20:35:33Z" user="pipigong" uid="2053470">
+  <nd ref="103982808"/>
+  <nd ref="103982821"/>
+  <nd ref="103982832"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Fitzrandolph Road"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Fitzrandolph"/>
+  <tag k="tiger:name_type" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="27313080" visible="true" version="16" changeset="28192524" timestamp="2015-01-16T17:34:11Z" user="RD1" uid="2418762">
+  <nd ref="299812882"/>
+  <nd ref="299812882"/>
+  <tag k="access" v="private"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Pyne Drive"/>
+ </way>
+ <way id="140579992" visible="true" version="3" changeset="34703765" timestamp="2015-10-18T01:32:39Z" user="mcld" uid="238584">
+  <nd ref="1539951861"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Baker Lane"/>
+ </way>
+ <way id="140635298" visible="true" version="6" changeset="33886343" timestamp="2015-09-08T16:56:11Z" user="RD1" uid="2418762">
+  <nd ref="2885338337"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Elm Dr"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="140635299" visible="true" version="7" changeset="33886343" timestamp="2015-09-08T17:05:12Z" user="RD1" uid="2418762">
+  <nd ref="3734803972"/>
+  <nd ref="2885338337"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Elm Dr"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="140635302" visible="true" version="7" changeset="33886343" timestamp="2015-09-08T17:19:03Z" user="RD1" uid="2418762">
+  <nd ref="3018946076"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Faculty Road"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="11642596" visible="true" version="15" changeset="33886343" timestamp="2015-09-08T16:32:04Z" user="RD1" uid="2418762">
+  <nd ref="3734755019"/>
+  <nd ref="104017141"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Faculty Road"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="11644688" visible="true" version="6" changeset="25254702" timestamp="2014-09-05T19:00:20Z" user="Senalba" uid="2263879">
+  <nd ref="104068332"/>
+  <nd ref="104004799"/>
+  <nd ref="104068339"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Olden Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Olden"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11648127" visible="true" version="11" changeset="33343158" timestamp="2015-08-14T21:23:52Z" user="James Michael DuPont" uid="521572">
+  <nd ref="104017838"/>
+  <nd ref="104047549"/>
+  <nd ref="104068339"/>
+  <nd ref="104057714"/>
+  <nd ref="103982808"/>
+  <nd ref="104025857"/>
+  <nd ref="104073266"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Prospect Avenue"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Prospect"/>
+  <tag k="tiger:name_type" v="Ave"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11640077" visible="true" version="5" changeset="25231200" timestamp="2014-09-04T17:10:01Z" user="Senalba" uid="2263879">
+  <nd ref="103976361"/>
+  <nd ref="103976377"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Southern Way"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Southern"/>
+  <tag k="tiger:name_type" v="Way"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11643539" visible="true" version="6" changeset="25312041" timestamp="2014-09-08T17:17:56Z" user="Senalba" uid="2263879">
+  <nd ref="104047521"/>
+  <nd ref="104047549"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Roper Lane"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Roper"/>
+  <tag k="tiger:name_type" v="Ln"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="11648343" visible="true" version="5" changeset="33345834" timestamp="2015-08-15T03:22:19Z" user="James Michael DuPont" uid="521572">
+  <nd ref="103994789"/>
+  <nd ref="104083241"/>
+  <nd ref="104059405"/>
+  <nd ref="104092742"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Wiggins Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Wiggins"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11647454" visible="true" version="15" changeset="24432229" timestamp="2014-07-29T21:33:41Z" user="stevea" uid="123633">
+  <nd ref="103978111"/>
+  <tag k="HFCS" v="Urban Principal Arterial"/>
+  <tag k="hgv" v="designated"/>
+  <tag k="hgv:state_network" v="yes"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="Nassau Street"/>
+  <tag k="name_1" v="Princeton Kingston Rd"/>
+  <tag k="NJDOT_SRI" v="00000027"/>
+  <tag k="ref" v="NJ 27"/>
+  <tag k="source:hgv:state_network" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf"/>
+  <tag k="tiger:cfcc" v="A31"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Nassau"/>
+  <tag k="tiger:name_base_1" v="State Route 27"/>
+  <tag k="tiger:name_base_2" v="Princeton Kingston"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:name_type_2" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11640183" visible="true" version="11" changeset="33344882" timestamp="2015-08-15T00:07:16Z" user="James Michael DuPont" uid="521572">
+  <nd ref="103978111"/>
+  <nd ref="103978126"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="FIXME:hgv" v="verify extent of restriction"/>
+  <tag k="HFCS" v="Urban Minor Arterial"/>
+  <tag k="hgv" v="no"/>
+  <tag k="hgv:minweight" v="4 tons"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Mercer Street"/>
+  <tag k="NJDOT_SRI" v="00000583"/>
+  <tag k="ref" v="CR 583"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Mercer"/>
+  <tag k="tiger:name_base_1" v="County Road 583"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11644642" visible="true" version="5" changeset="13175774" timestamp="2012-09-19T20:47:40Z" user="Rupert Swarbrick" uid="104519">
+  <nd ref="104067639"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Jefferson Road"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Jefferson"/>
+  <tag k="tiger:name_type" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="166379185" visible="true" version="2" changeset="16757327" timestamp="2013-06-29T20:36:32Z" user="Henry H" uid="313046">
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Peck Place"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Peck"/>
+  <tag k="tiger:name_type" v="Pl"/>
+  <tag k="tiger:reviewed" v="yes"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="11644247" visible="true" version="7" changeset="25231200" timestamp="2014-09-04T17:10:02Z" user="Senalba" uid="2263879">
+  <nd ref="1778379259"/>
+  <nd ref="104047521"/>
+  <nd ref="440197244"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Ivy Lane"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Ivy"/>
+  <tag k="tiger:name_type" v="Ln"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="11646015" visible="true" version="4" changeset="15784263" timestamp="2013-04-19T11:51:50Z" user="bot-mode" uid="451693">
+  <nd ref="104015767"/>
+  <nd ref="104087019"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Hulfish Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Hulfish"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+  <tag k="tiger:zip_right" v="08542"/>
+ </way>
+ <way id="265103351" visible="true" version="3" changeset="25231200" timestamp="2014-09-04T17:09:52Z" user="Senalba" uid="2263879">
+  <nd ref="2707654134"/>
+  <nd ref="2707654130"/>
+  <nd ref="2707654134"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Alexander Rd."/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="11643816" visible="true" version="16" changeset="33344882" timestamp="2015-08-15T00:07:13Z" user="James Michael DuPont" uid="521572">
+  <nd ref="103978126"/>
+  <nd ref="104052252"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="name" v="Alexander Road"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Alexander"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+ </way>
+ <way id="278740715" visible="true" version="1" changeset="22075300" timestamp="2014-05-02T00:37:05Z" user="KristenK" uid="1494110">
+  <nd ref="104017666"/>
+  <nd ref="104017668"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="John Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="John"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="278740720" visible="true" version="1" changeset="22075300" timestamp="2014-05-02T00:37:05Z" user="KristenK" uid="1494110">
+  <nd ref="104017668"/>
+  <nd ref="104017670"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="John Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="John"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="339410550" visible="true" version="2" changeset="32685351" timestamp="2015-07-16T21:24:52Z" user="Senalba" uid="2263879">
+  <nd ref="104017141"/>
+  <nd ref="104026284"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="lanes" v="2"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Faculty Road"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="11645268" visible="true" version="16" changeset="33812720" timestamp="2015-09-05T11:08:05Z" user="James Michael DuPont" uid="521572">
+  <nd ref="440197245"/>
+  <nd ref="104075024"/>
+  <nd ref="103976361"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="FIXME" v="Is CR 629 signed?"/>
+  <tag k="HFCS" v="Urban Minor Arterial"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="South Harrison Street"/>
+  <tag k="NJDOT_SRI" v="11000629"/>
+  <tag k="old_ref" v="CR 29"/>
+  <tag k="ref" v="(629)"/>
+  <tag k="source:old_ref" v="1938 map http://mapmaker.rutgers.edu/MERCER_COUNTY/MercerCounty.html"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Harrison"/>
+  <tag k="tiger:name_direction_prefix" v="S"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="27313320" visible="true" version="8" changeset="25064737" timestamp="2014-08-28T00:49:21Z" user="Senalba" uid="2263879">
+  <nd ref="299814969"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Stadium Drive West"/>
+ </way>
+ <way id="27337185" visible="true" version="24" changeset="34703765" timestamp="2015-10-18T01:32:46Z" user="mcld" uid="238584">
+  <nd ref="104017788"/>
+  <nd ref="104017797"/>
+  <nd ref="299814969"/>
+  <nd ref="104017824"/>
+  <tag k="HFCS" v="Urban Principal Arterial"/>
+  <tag k="hgv" v="designated"/>
+  <tag k="hgv:state_network" v="yes"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="Washington Road"/>
+  <tag k="NJDOT_SRI" v="00000571"/>
+  <tag k="old_ref" v="CR 7"/>
+  <tag k="ref" v="CR 571;CR 526"/>
+  <tag k="sidewalk" v="both"/>
+  <tag k="source:hgv:state_network" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf"/>
+  <tag k="source:old_ref" v="1938 map http://mapmaker.rutgers.edu/MERCER_COUNTY/MercerCounty.html"/>
+  <tag k="tiger:cfcc" v="A49"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Washington"/>
+  <tag k="tiger:name_base_1" v="County Road 583"/>
+  <tag k="tiger:name_type" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="289900452" visible="true" version="2" changeset="25231200" timestamp="2014-09-04T17:10:05Z" user="Senalba" uid="2263879">
+  <nd ref="2934335333"/>
+  <nd ref="1539968100"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Elm Drive"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="289900574" visible="true" version="4" changeset="25231200" timestamp="2014-09-04T17:10:05Z" user="Senalba" uid="2263879">
+  <nd ref="1539968100"/>
+  <nd ref="2934335333"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Elm Dr"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="289900573" visible="true" version="2" changeset="25231200" timestamp="2014-09-04T17:10:06Z" user="Senalba" uid="2263879">
+  <nd ref="2934335333"/>
+  <tag k="access" v="private"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Elm Dr"/>
+ </way>
+ <way id="141295809" visible="true" version="9" changeset="28192524" timestamp="2015-01-16T17:34:10Z" user="RD1" uid="2418762">
+  <nd ref="1539951861"/>
+  <nd ref="1539968100"/>
+  <tag k="access" v="private"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Elm Dr"/>
+ </way>
+ <way id="295023406" visible="true" version="3" changeset="33344882" timestamp="2015-08-15T00:07:16Z" user="James Michael DuPont" uid="521572">
+  <nd ref="103978111"/>
+  <nd ref="104015761"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="HFCS" v="Urban Principal Arterial"/>
+  <tag k="hgv" v="designated"/>
+  <tag k="hgv:state_network" v="yes"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="Nassau Street"/>
+  <tag k="name_1" v="Princeton Kingston Rd"/>
+  <tag k="NJDOT_SRI" v="00000027"/>
+  <tag k="ref" v="NJ 27"/>
+  <tag k="source:hgv:state_network" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf"/>
+  <tag k="tiger:cfcc" v="A31"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Nassau"/>
+  <tag k="tiger:name_base_1" v="State Route 27"/>
+  <tag k="tiger:name_base_2" v="Princeton Kingston"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:name_type_2" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="297990805" visible="true" version="11" changeset="32457465" timestamp="2015-07-06T19:59:11Z" user="Senalba" uid="2263879">
+  <nd ref="3018946076"/>
+  <nd ref="3018946083"/>
+  <nd ref="3018946086"/>
+  <nd ref="3618134710"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="history" v="Retrieved from v2"/>
+  <tag k="horse" v="yes"/>
+  <tag k="maxspeed" v="10 mph"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Hibben Magie Road"/>
+  <tag k="oneway" v="no"/>
+ </way>
+ <way id="297991898" visible="true" version="3" changeset="33350201" timestamp="2015-08-15T10:49:34Z" user="James Michael DuPont" uid="521572">
+  <nd ref="104009926"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="name" v="Springdale Road"/>
+  <tag k="surface" v="gravel"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Springdale"/>
+  <tag k="tiger:name_type" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="11647624" visible="true" version="6" changeset="25231200" timestamp="2014-09-04T17:10:02Z" user="Senalba" uid="2263879">
+  <nd ref="440197244"/>
+  <nd ref="103982821"/>
+  <nd ref="104025865"/>
+  <nd ref="104075024"/>
+  <nd ref="1778379259"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Western Way"/>
+  <tag k="tiger:cfcc" v="A74"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Western"/>
+  <tag k="tiger:name_type" v="Way"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="265103352" visible="true" version="11" changeset="33886343" timestamp="2015-09-08T16:32:05Z" user="RD1" uid="2418762">
+  <nd ref="3734755019"/>
+  <nd ref="299840114"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Alexander Road"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Alexander"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+ </way>
+ <way id="11642143" visible="true" version="13" changeset="33344882" timestamp="2015-08-15T00:07:19Z" user="James Michael DuPont" uid="521572">
+  <nd ref="2707654130"/>
+  <nd ref="104016444"/>
+  <nd ref="104016452"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="University Place"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="University"/>
+  <tag k="tiger:name_type" v="Pl"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="27316927" visible="true" version="6" changeset="25254986" timestamp="2014-09-05T19:16:48Z" user="Senalba" uid="2263879">
+  <nd ref="299840114"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Lawrence Drive"/>
+ </way>
+ <way id="302446158" visible="true" version="6" changeset="32985786" timestamp="2015-07-30T16:35:50Z" user="RichRico" uid="2219338">
+  <nd ref="3018971347"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Taylor Court"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="140635300" visible="true" version="11" changeset="32153387" timestamp="2015-06-23T06:07:38Z" user="Senalba" uid="2263879">
+  <nd ref="3018946076"/>
+  <nd ref="104017797"/>
+  <nd ref="103982832"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Faculty Road"/>
+ </way>
+ <way id="356351523" visible="true" version="6" changeset="32685142" timestamp="2015-07-16T21:13:37Z" user="Senalba" uid="2263879">
+  <nd ref="3618134710"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="10 mph"/>
+  <tag k="name" v="Hibben Magie Road"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="357818716" visible="true" version="1" changeset="32334429" timestamp="2015-07-01T15:26:22Z" user="ediyes" uid="1240849">
+  <nd ref="104041622"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Barsky Court"/>
+ </way>
+ <way id="358698042" visible="true" version="1" changeset="32435022" timestamp="2015-07-05T20:41:07Z" user="Senalba" uid="2263879">
+  <nd ref="3635878791"/>
+  <nd ref="3018971347"/>
+  <nd ref="3635878791"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Taylor Court"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="358697754" visible="true" version="3" changeset="32985786" timestamp="2015-07-30T16:35:50Z" user="RichRico" uid="2219338">
+  <nd ref="3018946083"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Lemonic Court"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="360947195" visible="true" version="3" changeset="33886343" timestamp="2015-09-08T17:25:13Z" user="RD1" uid="2418762">
+  <nd ref="3734788110"/>
+  <nd ref="3018946086"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="10 mph"/>
+  <tag k="name" v="Lakeside Road"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="360948108" visible="true" version="2" changeset="33886343" timestamp="2015-09-08T16:12:29Z" user="RD1" uid="2418762">
+  <nd ref="2885338337"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Elm Dr"/>
+ </way>
+ <way id="362613428" visible="true" version="1" changeset="32911819" timestamp="2015-07-27T15:10:42Z" user="mario824" uid="182051">
+  <nd ref="104017845"/>
+  <nd ref="104060492"/>
+  <nd ref="104092741"/>
+  <nd ref="104092742"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Vandeventer Avenue"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Vandeventer"/>
+  <tag k="tiger:name_type" v="Ave"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08542"/>
+  <tag k="tiger:zip_right" v="08542"/>
+ </way>
+ <way id="365781845" visible="true" version="1" changeset="33344882" timestamp="2015-08-15T00:06:58Z" user="James Michael DuPont" uid="521572">
+  <nd ref="104052270"/>
+  <nd ref="2707654134"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="name" v="Alexander Road"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Alexander"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+ </way>
+ <way id="365781846" visible="true" version="1" changeset="33344882" timestamp="2015-08-15T00:06:58Z" user="James Michael DuPont" uid="521572">
+  <nd ref="104052252"/>
+  <nd ref="104052270"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="name" v="Alexander Road"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Alexander"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+ </way>
+ <way id="365781849" visible="true" version="1" changeset="33344882" timestamp="2015-08-15T00:06:59Z" user="James Michael DuPont" uid="521572">
+  <nd ref="104052270"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="name" v="College Road"/>
+  <tag k="source" v="Yahoo"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="College"/>
+  <tag k="tiger:name_type" v="Rd"/>
+  <tag k="tiger:reviewed" v="yes"/>
+ </way>
+ <way id="365781850" visible="true" version="1" changeset="33344882" timestamp="2015-08-15T00:07:00Z" user="James Michael DuPont" uid="521572">
+  <nd ref="104052270"/>
+  <nd ref="104016444"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="name" v="College Road"/>
+  <tag k="source" v="Yahoo"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="College"/>
+  <tag k="tiger:name_type" v="Rd"/>
+  <tag k="tiger:reviewed" v="yes"/>
+ </way>
+ <way id="365781854" visible="true" version="1" changeset="33344882" timestamp="2015-08-15T00:07:01Z" user="James Michael DuPont" uid="521572">
+  <nd ref="104015761"/>
+  <nd ref="104105292"/>
+  <nd ref="104082460"/>
+  <nd ref="104017845"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="HFCS" v="Urban Principal Arterial"/>
+  <tag k="hgv" v="designated"/>
+  <tag k="hgv:state_network" v="yes"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="Nassau Street"/>
+  <tag k="name_1" v="Princeton Kingston Rd"/>
+  <tag k="NJDOT_SRI" v="00000027"/>
+  <tag k="ref" v="NJ 27"/>
+  <tag k="source:hgv:state_network" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf"/>
+  <tag k="tiger:cfcc" v="A31"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Nassau"/>
+  <tag k="tiger:name_base_1" v="State Route 27"/>
+  <tag k="tiger:name_base_2" v="Princeton Kingston"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:name_type_2" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="365781867" visible="true" version="1" changeset="33344882" timestamp="2015-08-15T00:07:04Z" user="James Michael DuPont" uid="521572">
+  <nd ref="104016452"/>
+  <nd ref="104016454"/>
+  <nd ref="104015761"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="University Place"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="University"/>
+  <tag k="tiger:name_type" v="Pl"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="365793299" visible="true" version="1" changeset="33345834" timestamp="2015-08-15T03:22:09Z" user="James Michael DuPont" uid="521572">
+  <nd ref="104041982"/>
+  <nd ref="104029813"/>
+  <nd ref="104112260"/>
+  <nd ref="104068332"/>
+  <nd ref="103980996"/>
+  <nd ref="104074324"/>
+  <nd ref="104033168"/>
+  <nd ref="104057703"/>
+  <nd ref="104041622"/>
+  <nd ref="103998540"/>
+  <nd ref="104027991"/>
+  <nd ref="104073256"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="HFCS" v="Urban Principal Arterial"/>
+  <tag k="hgv" v="designated"/>
+  <tag k="hgv:state_network" v="yes"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="Nassau Street"/>
+  <tag k="name_1" v="Princeton Kingston Rd"/>
+  <tag k="NJDOT_SRI" v="00000027"/>
+  <tag k="ref" v="NJ 27"/>
+  <tag k="source:hgv:state_network" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf"/>
+  <tag k="tiger:cfcc" v="A31"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Nassau"/>
+  <tag k="tiger:name_base_1" v="State Route 27"/>
+  <tag k="tiger:name_base_2" v="Princeton Kingston"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:name_type_2" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="365793300" visible="true" version="1" changeset="33345834" timestamp="2015-08-15T03:22:10Z" user="James Michael DuPont" uid="521572">
+  <nd ref="104092742"/>
+  <nd ref="104025524"/>
+  <nd ref="104063891"/>
+  <nd ref="104067639"/>
+  <nd ref="103999243"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Wiggins Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Wiggins"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="365840909" visible="true" version="1" changeset="33351090" timestamp="2015-08-15T11:52:43Z" user="James Michael DuPont" uid="521572">
+  <nd ref="3577623023"/>
+  <nd ref="104017783"/>
+  <tag k="HFCS" v="Urban Principal Arterial"/>
+  <tag k="hgv" v="designated"/>
+  <tag k="hgv:state_network" v="yes"/>
+  <tag k="highway" v="primary"/>
+  <tag k="name" v="Washington Road"/>
+  <tag k="NJDOT_SRI" v="00000571"/>
+  <tag k="old_ref" v="CR 7"/>
+  <tag k="ref" v="CR 571;CR 526"/>
+  <tag k="source:hgv:state_network" v="NJDOT http://www.state.nj.us/transportation/about/rules/pdf/chapter32truckaccess.pdf"/>
+  <tag k="source:old_ref" v="1938 map http://mapmaker.rutgers.edu/MERCER_COUNTY/MercerCounty.html"/>
+  <tag k="tiger:cfcc" v="A49"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Washington"/>
+  <tag k="tiger:name_base_1" v="County Road 583"/>
+  <tag k="tiger:name_type" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="369091821" visible="true" version="1" changeset="33792109" timestamp="2015-09-04T11:58:15Z" user="James Michael DuPont" uid="521572">
+  <nd ref="103994771"/>
+  <nd ref="103994789"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Paul Robeson Place"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Mercer, NJ"/>
+  <tag k="tiger:name_base" v="Paul Robeson"/>
+  <tag k="tiger:name_type" v="Pl"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="08540"/>
+  <tag k="tiger:zip_right" v="08540"/>
+ </way>
+ <way id="140635303" visible="true" version="4" changeset="33886343" timestamp="2015-09-08T16:56:11Z" user="RD1" uid="2418762">
+  <nd ref="104026284"/>
+  <nd ref="3734788110"/>
+  <tag k="access" v="yes"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Faculty Road"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="140635294" visible="true" version="5" changeset="33886343" timestamp="2015-09-08T16:56:11Z" user="RD1" uid="2418762">
+  <nd ref="104026284"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Faculty Road"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="tiger:name_base" v="Faculty"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="140635296" visible="true" version="8" changeset="33886343" timestamp="2015-09-08T17:19:02Z" user="RD1" uid="2418762">
+  <nd ref="3018946076"/>
+  <nd ref="3734803972"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="horse" v="yes"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Faculty Road"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ </osm>

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>xdai's tracking project</title>
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+
+// This example creates a 2-pixel-wide red polyline showing the path of William
+// Kingsford Smith's first trans-Pacific flight between Oakland, CA, and
+// Brisbane, Australia.
+var posit = {lat: 40.337936, lng: -74.654972};
+function initMap() {
+   var map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 14,
+    center: posit,
+    mapTypeId: google.maps.MapTypeId.TERRAIN
+  });
+
+  var flightPlanCoordinates = [
+
+{"lat":40.259148879, "lng":-74.7761045863},
+{"lat":40.2605536441, "lng":-74.7764425446},
+{"lat":40.2611961589, "lng":-74.7740822845},
+{"lat":40.2627040632, "lng":-74.7748538387},
+{"lat":40.2619892965, "lng":-74.7795069684},
+{"lat":40.259950147, "lng":-74.7787262779},
+{"lat":40.2595451335, "lng":-74.7800595873},
+{"lat":40.2584434161, "lng":-74.7796244827},
+{"lat":40.2580314875, "lng":-74.7837933899},
+{"lat":40.2624811046, "lng":-74.7857094929},
+{"lat":40.2628649539, "lng":-74.7814806551},
+{"lat":40.258153989, "lng":-74.7793964949},
+{"lat":40.2597122686, "lng":-74.7735961341},
+
+	];
+  var flightPath = new google.maps.Polyline({
+    path: flightPlanCoordinates,
+    geodesic: true,
+    strokeColor: '#FF0000',
+    strokeOpacity: 1.0,
+    strokeWeight: 2
+  });
+  setMarkers(map);
+  flightPath.setMap(map);
+}
+
+
+var beaches = [
+  ['Bondi Beach', -33.890542, 151.274856, 4],
+];
+
+function setMarkers(map) {
+  // Adds markers to the map.
+
+  // Marker sizes are expressed as a Size of X,Y where the origin of the image
+  // (0,0) is located in the top left of the image.
+
+  // Origins, anchor positions and coordinates of the marker increase in the X
+  // direction to the right and in the Y direction down.
+  var image = {
+//    url: '/home/xdai/project_tracking/figure.png',
+    url: '/home/xdai/project_tracking/figure.jpg',
+    // This marker is 20 pixels wide by 32 pixels high.
+    size: new google.maps.Size(20, 32),
+    // The origin for this image is (0, 0).
+    origin: new google.maps.Point(0, 0),
+    // The anchor for this image is the base of the flagpole at (0, 32).
+    anchor: new google.maps.Point(0, 32)
+  };
+  // Shapes define the clickable region of the icon. The type defines an HTML
+  // <area> element 'poly' which traces out a polygon as a series of X,Y points.
+  // The final coordinate closes the poly by connecting to the first coordinate.
+  var shape = {
+    coords: [1, 1, 1, 20, 18, 20, 18, 1],
+    type: 'poly'
+  };
+  var beach = ['start', -40.343, -74.68]
+//beaches[0];
+  var marker = new google.maps.Marker({
+    position: posit,
+    map: map,
+    icon: image,
+    shape: shape,
+    title: beach[0],
+    zIndex: beach[0]
+    });
+}
+
+
+
+    </script>
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDy3tIldJmugqv8Vmnpu69FPrSLrttXwR4&signed_in=true&callback=initMap"></script>
+  </body>
+</html>
